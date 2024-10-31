@@ -19,7 +19,7 @@ export default function MobileEducation() {
     },
   ];
   return (
-    <div id="home" className="w-full p-5 bg-[#eeeeee]">
+    <div className="w-full p-5 bg-[#eeeeee]">
       <h2 className="scroll-m-20 border-b border-[#6b6b6b] pb-2 text-3xl font-semibold tracking-tight first:mt-0 text-[#006666]">
         Education
       </h2>

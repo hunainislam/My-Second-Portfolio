@@ -7,7 +7,7 @@ export default function Header() {
       <header className="text-white body-font bg-[#6b6b6b]">
         <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
           <nav className="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto">
-            <Link href={"/"} className="mr-5 hover:text-black">
+            <Link href={"#home"} className="mr-5 hover:text-black">
               Home
             </Link>
             <Link href={"#about"} className="mr-5 hover:text-black">
