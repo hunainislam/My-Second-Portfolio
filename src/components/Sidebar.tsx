@@ -84,11 +84,11 @@ export function Sidebar() {
       </div>
 
       {/* Download CV Button */}
-        <Link href= "/assests/CV/myCV.pdf" className="-mt-8" target="_blank">
-      <Button>
-      <IoMdDownload  className="mr-2 h-4 w-4"/> Download CV
-    </Button>
-    </Link>
+      <Link href="/assests/CV/myCV.pdf" className="-mt-8" target="_blank">
+        <Button>
+          <IoMdDownload className="mr-2 h-4 w-4" /> Download CV
+        </Button>
+      </Link>
     </div>
   );
 }
